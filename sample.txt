@@ -1,3 +1,4 @@
 #!/bin/bash
 addition=1+2
+subraction=4-3
 
